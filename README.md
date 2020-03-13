@@ -1,5 +1,5 @@
-# titantic-survival-prediction
+# Titantic Survival Prediction
 
-A simple neural network to perform binary classification on titanic survivors dataset.
+This notebook performs binary classification on titanic survivors dataset using a simple feed forward neural network.
 
 Please upvote this notebook at [Kaggle](https://www.kaggle.com/gauthampughazh/titanic-survival-prediction-pandas-plotly-keras) if you like it.
